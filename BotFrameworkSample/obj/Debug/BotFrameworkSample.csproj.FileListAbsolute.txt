@@ -1,0 +1,54 @@
+C:\Users\Samy\Documents\Visual Studio 2017\Projects\BotSample\BotFrameworkSample\bin\Bot Application.dll.config
+C:\Users\Samy\Documents\Visual Studio 2017\Projects\BotSample\BotFrameworkSample\bin\Bot Application.dll
+C:\Users\Samy\Documents\Visual Studio 2017\Projects\BotSample\BotFrameworkSample\bin\Bot Application.pdb
+C:\Users\Samy\Documents\Visual Studio 2017\Projects\BotSample\BotFrameworkSample\bin\Autofac.dll
+C:\Users\Samy\Documents\Visual Studio 2017\Projects\BotSample\BotFrameworkSample\bin\Chronic.dll
+C:\Users\Samy\Documents\Visual Studio 2017\Projects\BotSample\BotFrameworkSample\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\Samy\Documents\Visual Studio 2017\Projects\BotSample\BotFrameworkSample\bin\Microsoft.Bot.Builder.dll
+C:\Users\Samy\Documents\Visual Studio 2017\Projects\BotSample\BotFrameworkSample\bin\Microsoft.Bot.Connector.dll
+C:\Users\Samy\Documents\Visual Studio 2017\Projects\BotSample\BotFrameworkSample\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Samy\Documents\Visual Studio 2017\Projects\BotSample\BotFrameworkSample\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\Samy\Documents\Visual Studio 2017\Projects\BotSample\BotFrameworkSample\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Samy\Documents\Visual Studio 2017\Projects\BotSample\BotFrameworkSample\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Samy\Documents\Visual Studio 2017\Projects\BotSample\BotFrameworkSample\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Samy\Documents\Visual Studio 2017\Projects\BotSample\BotFrameworkSample\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Samy\Documents\Visual Studio 2017\Projects\BotSample\BotFrameworkSample\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Samy\Documents\Visual Studio 2017\Projects\BotSample\BotFrameworkSample\bin\Newtonsoft.Json.dll
+C:\Users\Samy\Documents\Visual Studio 2017\Projects\BotSample\BotFrameworkSample\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Samy\Documents\Visual Studio 2017\Projects\BotSample\BotFrameworkSample\bin\System.Net.Http.Formatting.dll
+C:\Users\Samy\Documents\Visual Studio 2017\Projects\BotSample\BotFrameworkSample\bin\System.Web.Http.dll
+C:\Users\Samy\Documents\Visual Studio 2017\Projects\BotSample\BotFrameworkSample\bin\System.Web.Http.WebHost.dll
+C:\Users\Samy\Documents\Visual Studio 2017\Projects\BotSample\BotFrameworkSample\bin\Autofac.xml
+C:\Users\Samy\Documents\Visual Studio 2017\Projects\BotSample\BotFrameworkSample\bin\Microsoft.Bot.Builder.pdb
+C:\Users\Samy\Documents\Visual Studio 2017\Projects\BotSample\BotFrameworkSample\bin\Microsoft.Bot.Builder.xml
+C:\Users\Samy\Documents\Visual Studio 2017\Projects\BotSample\BotFrameworkSample\bin\Microsoft.Bot.Builder.Autofac.pdb
+C:\Users\Samy\Documents\Visual Studio 2017\Projects\BotSample\BotFrameworkSample\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\Samy\Documents\Visual Studio 2017\Projects\BotSample\BotFrameworkSample\bin\Microsoft.Bot.Connector.xml
+C:\Users\Samy\Documents\Visual Studio 2017\Projects\BotSample\BotFrameworkSample\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\Samy\Documents\Visual Studio 2017\Projects\BotSample\BotFrameworkSample\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\Samy\Documents\Visual Studio 2017\Projects\BotSample\BotFrameworkSample\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Samy\Documents\Visual Studio 2017\Projects\BotSample\BotFrameworkSample\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Samy\Documents\Visual Studio 2017\Projects\BotSample\BotFrameworkSample\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Samy\Documents\Visual Studio 2017\Projects\BotSample\BotFrameworkSample\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Samy\Documents\Visual Studio 2017\Projects\BotSample\BotFrameworkSample\bin\Newtonsoft.Json.xml
+C:\Users\Samy\Documents\Visual Studio 2017\Projects\BotSample\BotFrameworkSample\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Samy\Documents\Visual Studio 2017\Projects\BotSample\BotFrameworkSample\bin\System.Net.Http.Formatting.xml
+C:\Users\Samy\Documents\Visual Studio 2017\Projects\BotSample\BotFrameworkSample\bin\System.Web.Http.xml
+C:\Users\Samy\Documents\Visual Studio 2017\Projects\BotSample\BotFrameworkSample\bin\System.Web.Http.WebHost.xml
+C:\Users\Samy\Documents\Visual Studio 2017\Projects\BotSample\BotFrameworkSample\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\Samy\Documents\Visual Studio 2017\Projects\BotSample\BotFrameworkSample\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\Samy\Documents\Visual Studio 2017\Projects\BotSample\BotFrameworkSample\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\Samy\Documents\Visual Studio 2017\Projects\BotSample\BotFrameworkSample\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\Samy\Documents\Visual Studio 2017\Projects\BotSample\BotFrameworkSample\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\Samy\Documents\Visual Studio 2017\Projects\BotSample\BotFrameworkSample\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\Samy\Documents\Visual Studio 2017\Projects\BotSample\BotFrameworkSample\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\Samy\Documents\Visual Studio 2017\Projects\BotSample\BotFrameworkSample\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Users\Samy\Documents\Visual Studio 2017\Projects\BotSample\BotFrameworkSample\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\Samy\Documents\Visual Studio 2017\Projects\BotSample\BotFrameworkSample\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Users\Samy\Documents\Visual Studio 2017\Projects\BotSample\BotFrameworkSample\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+C:\Users\Samy\Documents\Visual Studio 2017\Projects\BotSample\BotFrameworkSample\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\Samy\Documents\Visual Studio 2017\Projects\BotSample\BotFrameworkSample\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\Samy\Documents\Visual Studio 2017\Projects\BotSample\BotFrameworkSample\obj\Debug\BotFrameworkSample.csprojResolveAssemblyReference.cache
+C:\Users\Samy\Documents\Visual Studio 2017\Projects\BotSample\BotFrameworkSample\obj\Debug\BotFrameworkSample.csproj.CoreCompileInputs.cache
+C:\Users\Samy\Documents\Visual Studio 2017\Projects\BotSample\BotFrameworkSample\obj\Debug\Bot Application.dll
+C:\Users\Samy\Documents\Visual Studio 2017\Projects\BotSample\BotFrameworkSample\obj\Debug\Bot Application.pdb
