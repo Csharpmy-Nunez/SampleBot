@@ -52,3 +52,6 @@ C:\Users\Samy\Documents\Visual Studio 2017\Projects\BotSample\BotFrameworkSample
 C:\Users\Samy\Documents\Visual Studio 2017\Projects\BotSample\BotFrameworkSample\obj\Debug\BotFrameworkSample.csproj.CoreCompileInputs.cache
 C:\Users\Samy\Documents\Visual Studio 2017\Projects\BotSample\BotFrameworkSample\obj\Debug\Bot Application.dll
 C:\Users\Samy\Documents\Visual Studio 2017\Projects\BotSample\BotFrameworkSample\obj\Debug\Bot Application.pdb
+C:\Users\Samy\Documents\Visual Studio 2017\Projects\BotSample\BotFrameworkSample\bin\NetSpell.SpellChecker.dll
+C:\Users\Samy\Documents\Visual Studio 2017\Projects\BotSample\BotFrameworkSample\bin\NetSpell.SpellChecker.xml
+C:\Users\Samy\Documents\Visual Studio 2017\Projects\BotSample\BotFrameworkSample\bin\Dialogs\en-US.dic
