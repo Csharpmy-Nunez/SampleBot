@@ -1,0 +1,1 @@
+Enter a word to test if it exists in the English Dictionary 
